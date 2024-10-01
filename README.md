@@ -49,6 +49,8 @@ Nous couvrirons l'installation avec XAMPP ou Docker, la configuration de WooComm
 
 4. *Accéder à WordPress* :
    - Ouvrez votre navigateur et allez sur http://localhost:8000 pour compléter l'installation de WordPress.
+   - Après avoir compléter l'installation vous devez vous connecter avec les identifiants que vous avez créer.
+   - Pour accéder a la page de connexion de wordPress à la suite de votre url vous devez ajouter wp-admin, http://localhost:8000/wp-admin/.
 
 ---
 
