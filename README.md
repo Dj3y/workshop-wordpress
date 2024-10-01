@@ -80,7 +80,7 @@ Nous couvrirons l'installation avec XAMPP ou Docker, la configuration de WooComm
 
 1. *Choisir un thème* :
    - Allez dans *Apparence > Thèmes*.
-   - Sélectionnez un thème gratuit ou premium adapté à vos besoins eCommerce (par exemple, Storefront).
+   - Sélectionnez un thème gratuit ou premium adapté à vos besoins eCommerce (par exemple, OceanWP, Storefront, Astra...).
 
 2. *Personnaliser le thème* :
    - Allez dans *Apparence > Personnaliser*.
