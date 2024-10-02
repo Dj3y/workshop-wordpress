@@ -1,4 +1,6 @@
-# 𝖶𝗈𝗋𝗄𝗌𝗁𝗈𝗉: 𝖢𝗋é𝖺𝗍𝗂𝗈𝗇 𝖽'𝗎𝗇 𝗌𝗂𝗍𝖾 𝖾𝖢𝗈𝗆𝗆𝖾𝗋𝖼𝖾 𝖺𝗏𝖾𝖼 𝖶𝗈𝗋𝖽𝖯𝗋𝖾𝗌𝗌
+<img src="img/_846daed5-aea3-405e-9f95-92abaf0559eb.jpg" width="10%" align="right">
+
+# 𝖶𝗈𝗋𝗄𝗌𝗁𝗈𝗉: <br> 𝖢𝗋é𝖺𝗍𝗂𝗈𝗇 𝖽'𝗎𝗇 𝗌𝗂𝗍𝖾 𝖾𝖢𝗈𝗆𝗆𝖾𝗋𝖼𝖾 𝖺𝗏𝖾𝖼 𝖶𝗈𝗋𝖽𝖯𝗋𝖾𝗌𝗌
 
 Ce guide vous accompagnera dans la création d'un site eCommerce avec WordPress et WooCommerce. 
 Nous couvrirons l'installation avec XAMPP ou Docker, la configuration de WooCommerce et la personnalisation de votre boutique.
@@ -109,4 +111,7 @@ Nous couvrirons l'installation avec XAMPP ou Docker, la configuration de WooComm
 2. Visitez la page d'accueil de votre site, naviguez à travers les pages produits et assurez-vous que tout fonctionne correctement.
 3. Si vous êtes satisfait, votre boutique est prête à être mise en ligne (si hébergée) ou présentée en local.
 
-# Tres important n'oubliez pas de partager le benef!
+<img src="img/money-bag.gif" width="8%" align="right">
+
+# Tres important n'oubliez pas de partager le benef! <br> BE22 525 525 526 SEULEMENT EN INSTANTANE SVP!
+
