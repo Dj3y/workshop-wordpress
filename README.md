@@ -112,5 +112,5 @@
 
 <img src="img/money-bag.gif" width="8%" align="right">
 
-# Tres important n'oubliez pas de partager le benef! <br> BE22 525 525 526 SEULEMENT EN INSTANTANE SVP!
+# Tres important n'oubliez pas de partager le benef! <br> BE22 525 525 526 SEULEMENT EN INSTANTANEE SVP!
 
